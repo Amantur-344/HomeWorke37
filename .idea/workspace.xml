@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8915712-f613-41c4-bad5-c72f8784944f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LessonHomeWorke.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LessonHomeWorke/ArrayList/Vopros.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LessonHomeWorke/ArrayList/ZadachaA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LessonHomeWorke/ArrayList/ZadachaA1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LessonHomeWorke/enums/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LessonHomeWorke/enums/Overload.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LessonHomeWorke/set/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LessonHomeWorke/set/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/Vopros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/ZadachaA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/ZadachaA1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enums/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enums/Overload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1X0yMceTkXimTGexq3N2qdVnhwR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.Main" />
+      <module name="LessonHomeWorke" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZadachaA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayList.ZadachaA" />
+      <module name="LessonHomeWorke" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZadachaA1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayList.ZadachaA1" />
+      <module name="LessonHomeWorke" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ZadachaA1" />
+        <item itemvalue="Application.ZadachaA" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8915712-f613-41c4-bad5-c72f8784944f" name="Default Changelist" comment="" />
+      <created>1580197259137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580197259137</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="605" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1580307425112">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1580307425112" />
+    <state x="622" y="328" key="Github.CreateGistDialog" timestamp="1580370947284">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="622" y="328" key="Github.CreateGistDialog/0.0.1600.860@0.0.1600.860" timestamp="1580370947284" />
+    <state width="1556" height="218" key="GridCell.Tab.0.bottom" timestamp="1580308402969">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1580308402969" />
+    <state width="1556" height="218" key="GridCell.Tab.0.center" timestamp="1580308402969">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1580308402969" />
+    <state width="1556" height="218" key="GridCell.Tab.0.left" timestamp="1580308402968">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1580308402968" />
+    <state width="1556" height="218" key="GridCell.Tab.0.right" timestamp="1580308402969">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1580308402969" />
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1580370304670">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1580370304670" />
+  </component>
+</project>
